@@ -126,7 +126,7 @@ lakehouse-project/
 
 ## 📄 License
 
-This project is open-source under the **MIT License**. Feel free to reuse and adapt for your own portfolios!
+This project is open-source under the **MIT License**. 
 
 ---
 
